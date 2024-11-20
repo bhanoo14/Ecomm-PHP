@@ -1,0 +1,14 @@
+Ecommerce App
+landing page -- tailwind CSS
+        pages- home page / root page
+               BasicPages - Contact, AboutUs, Services, notFound
+               userPage - loginpage, registerpage, forgot Password/ resset Password
+
+               Product page - Product, CartPage, 
+
+I want to show product of my product page and I am just showing all product in list items prop like title price and short discritpion of items
+and I just want to add sort by category button on top of main body where all category button are availble and user can sort them accordingly
+
+I want to show Items when user search like shoes so I will list all shoes in form of table that contains title price discription image of product
+and add to cart button and in end next and previous button and I want list to long almost full with of my screen first image and then second div contains title product ruce discription
+and add to cart botton first div will have only produt image
